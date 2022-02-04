@@ -1,0 +1,20 @@
+{
+  "name": "andersonteala/validate-phone",
+  "description": "Validate a phone number",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anderson Teala",
+      "email": "andersonteala@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AndersonTeala\\ValidatePhone\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
