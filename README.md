@@ -10,6 +10,8 @@ Valid only for Brazilian phones (first version).
 
 ## Installing
 
+To install this dependency just run the command below:
+
 ```sh
 composer require andersonteala/validate-phone
 ```
